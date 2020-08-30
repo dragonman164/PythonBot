@@ -1,8 +1,8 @@
-# PythonBot
+# Python Bot
 It is a bot made for daily user tasks.
 
 # Note
-It Works for Windows only 
+It works for Windows only. 
 
 # Required packages
 
